@@ -1,0 +1,6 @@
+baseURL = "http://tfournet.github.io/RewstDocs/"
+languageCode = "en-us"
+title = "test Site"
+theme = "doks"
+
+
